@@ -1,0 +1,31 @@
+title,genres,sentiment
+The Pursuit of Happyness,Drama,positive
+Inside Out,Animation|Comedy|Family,positive
+The Intouchables,Biography|Comedy|Drama,positive
+Forrest Gump,Drama|Romance,positive
+The Shawshank Redemption,Drama|Crime,positive
+Coco,Animation|Adventure|Family,positive
+La La Land,Comedy|Drama|Music,positive
+Slumdog Millionaire,Drama|Romance,positive
+Up,Animation|Adventure|Comedy,positive
+Zootopia,Animation|Action|Adventure,positive
+Joker,Drama|Crime,negative
+Requiem for a Dream,Drama,negative
+Black Swan,Drama|Thriller,negative
+The Road,Adventure|Drama,negative
+Hereditary,Drama|Horror|Mystery,negative
+Grave of the Fireflies,Animation|Drama|War,negative
+The Machinist,Drama|Thriller,negative
+The Mist,Horror|Sci-Fi|Thriller,negative
+Melancholia,Drama|Sci-Fi,negative
+Leaving Las Vegas,Drama|Romance,negative
+Inception,Action|Sci-Fi|Thriller,neutral
+The Dark Knight,Action|Crime|Drama,neutral
+Interstellar,Adventure|Drama|Sci-Fi,neutral
+The Matrix,Action|Sci-Fi,neutral
+Tenet,Action|Sci-Fi|Thriller,neutral
+The Social Network,Biography|Drama,neutral
+Parasite,Drama|Thriller,neutral
+Birdman,Comedy|Drama,neutral
+Arrival,Drama|Mystery|Sci-Fi,neutral
+Whiplash,Drama|Music,neutral
