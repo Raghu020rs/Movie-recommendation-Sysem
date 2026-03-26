@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
+import os
 
 # Set page config
 st.set_page_config(page_title="🎬 Sentiment-Based Movie Recommender", layout="centered")
@@ -8,7 +9,9 @@ st.set_page_config(page_title="🎬 Sentiment-Based Movie Recommender", layout="
 # Load data
 @st.cache_data
 def load_movie_data():
-    return pd.read_csv("sentiment_movies.csv")
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_dir, "sentiment_movies.csv")
+    return pd.read_csv(file_path)
 
 df = load_movie_data()
 
